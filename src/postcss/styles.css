@@ -8,3 +8,24 @@
 
 
 @import '_custom';
+
+.white {
+	color: white;
+}
+.pink {
+	background-color: pink;
+}
+.gatito-ul {
+	list-style: none;
+	li {
+		color: white;
+		font-size: 40px;
+	}
+}
+.perrito-ul {
+	list-style: none;
+	li {
+		color: blue;
+		font-size: 40px;
+	}
+}
